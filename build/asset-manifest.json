@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4de2f809.css",
+    "main.js": "/static/js/main.4121191b.js",
+    "static/media/MontserratAlternates-Black.ttf": "/static/media/MontserratAlternates-Black.53c65844392081267032.ttf",
+    "static/media/MontserratAlternates-Italic.ttf": "/static/media/MontserratAlternates-Italic.98d6ec02505ac62616c0.ttf",
+    "static/media/MontserratAlternates-Bold.ttf": "/static/media/MontserratAlternates-Bold.104814841470be32b52f.ttf",
+    "static/media/MontserratAlternates-Medium.ttf": "/static/media/MontserratAlternates-Medium.ae41054b33bf901739c8.ttf",
+    "static/media/MontserratAlternates-Light.ttf": "/static/media/MontserratAlternates-Light.f108b24eefec66e65492.ttf",
+    "static/media/Metrolite 2 W01 Roman.ttf": "/static/media/Metrolite 2 W01 Roman.795daed83bce32d8c5ae.ttf",
+    "static/media/ls.svg": "/static/media/ls.89e752d880492a3e34e4.svg",
+    "index.html": "/index.html",
+    "main.4de2f809.css.map": "/static/css/main.4de2f809.css.map",
+    "main.4121191b.js.map": "/static/js/main.4121191b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de2f809.css",
+    "static/js/main.4121191b.js"
+  ]
+}
